@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Jose 💻 
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*l1GgcqQ-pRxY5o1t"> 
 <!--
 **JoseJoaquinMartinez/JoseJoaquinMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

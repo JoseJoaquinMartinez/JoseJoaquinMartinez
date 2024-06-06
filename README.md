@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jose 💻  Junio Full Stack Developer
 Working with HTML CSS JAVASCRIPT REACT FLASK & PYTHON
-Learning TypeScript and Tailwind Css
+<br> Learning TypeScript and Tailwind Css
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*l1GgcqQ-pRxY5o1t"> 
 <!--

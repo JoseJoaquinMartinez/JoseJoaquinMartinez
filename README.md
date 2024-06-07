@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Jose 💻  Junio Full Stack Developer
-Working with HTML CSS JAVASCRIPT REACT FLASK & PYTHON
+Working with HTML5 CSS3 JAVASCRIPT REACT for the FrontEnd and PYTHON & FLASK for the BackEnd technologies 
 <br> Learning TypeScript and Tailwind Css
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*l1GgcqQ-pRxY5o1t"> 

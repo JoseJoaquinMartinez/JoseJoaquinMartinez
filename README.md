@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jose 💻  Junio Full Stack Developer
+## Hi there 👋 I'm Jose 💻 Full Stack Developer
 Working with HTML5 CSS3 JAVASCRIPT REACT for the FrontEnd and PYTHON & FLASK for the BackEnd technologies 
 <br> Learning TypeScript and Tailwind Css
 

@@ -44,8 +44,8 @@
 <p>🖼️ I do enjoy a good movie or serie, mainly watch fantasy movies but like pretty much everything.</p>
 <p>🎵 Love music, Rock</p>
 <p>📚 Epic fantasy books ❤️ Brandon Sanderson, Patrick Rothfuss and yes Im a big Harry Potter fan</p>
-<p>🥸 Don't forget video games, love single player games, rpg and adventure genres.</p>
-<p>🐸 I really love spending time in nature, and searching for amphibians.</p>
+<p>🎮 Don't forget video games, love single player games, rpg and adventure genres.</p>
+<p>🌳 I really love spending time in nature.</p>
 
 <h2>Contact me</h2>
 <p>

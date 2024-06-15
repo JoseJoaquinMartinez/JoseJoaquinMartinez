@@ -1,19 +1,58 @@
-## Hi there 👋 I'm Jose 💻 Full Stack Developer
-Working with HTML5 CSS3 JAVASCRIPT REACT for the FrontEnd and PYTHON & FLASK for the BackEnd technologies 
-<br> Learning TypeScript and Tailwind Css
+<h1>Hi there 👋I'm <span style="color:#09f;">Jose</span> 💻</h1>
+  <p>Enthusiastic Full Stack Developer with a background in Biology and Cosmetic Chemistry, currently honing software development skills. Passionate about innovative products and quality control, with a keen eye for detail. Strong in HTML, CSS, JS, React, Python, and Flask. Proven ability to enhance user experience and collaborate cross-functionally. Excited to contribute to cutting-edge projects aligning with high standards and impactful solutions.</p>
+  <img src="https://miro.medium.com/v2/resize:fit:400/0*l1GgcqQ-pRxY5o1t"
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*l1GgcqQ-pRxY5o1t"> 
-<!--
-**JoseJoaquinMartinez/JoseJoaquinMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>Languages Frameworks & Libraries</h2>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Currently learning</h3>
+<p>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  </a>
+</p>
+
+<h2>About Me:</h2>
+<p>🛠 I'm open to exploring and learning new frameworks and technologies.</p>
+<p>🧰 Striving to perfect my coding skills by crafting clean, efficient code that prioritizes simplicity and minimizes redundancy.</p>
+<p>🖼️ I do enjoy a good movie or serie, mainly watch fantasy movies but like pretty much everything.</p>
+<p>🎵 Love music, Rock</p>
+<p>📚 Epic fantasy books ❤️ Brandon Sanderson, Patrick Rothfuss and yes Im a big Harry Potter fan</p>
+<p>🥸 Don't forget video games, love single player games, rpg and adventure genres.</p>
+<p>🐸 I really love spending time in nature, and searching for amphibians.</p>
+
+<h2>Contact me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/josejoaquinmartinezcarrillo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jj.martinez87@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>

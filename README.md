@@ -5,41 +5,38 @@
 
 <h2>Languages Frameworks & Libraries</h2>
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452 520">
-  <path fill="#e34f26" d="M41 460L0 0h451l-41 460-185 52" />
-  <path fill="#ef652a" d="M226 472l149-41 35-394H226" />
-  <path fill="#ecedee" d="M226 208h-75l-5-58h80V94H84l15 171h127zm0 147l-64-17-4-45h-56l7 89 117 32z"/>
-  <path fill="#fff" d="M226 265h69l-7 73-62 17v59l115-32 16-174H226zm0-171v56h136l5-56z"/>
-</svg>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
+    <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/ee1c02f8-492a-4f55-99b4-00f6f1282138"  alt="html5 logo" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none;">
+    <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/a9f4c1a5-c46a-486d-83e7-2ba4e84694ab"
+ alt="CSS3 logo">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;">
+    <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/e1c4c6cf-3620-4942-adac-74c50dc5bd5c" alt="JavaScript logo">
   </a>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <a href="https://reactjs.org/" style="text-decoration: none;">
+    <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/814c12df-4081-443f-86ad-40e1804d258b" alt="React logo">
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <a href="https://www.python.org/" style="text-decoration: none;">
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" style="height: 22px; width: 22px;" alt="Python logo">
+</a>
+  <a href="https://flask.palletsprojects.com/" style="text-decoration: none;">
+    <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/129f19c9-fcf6-468e-9211-0865c7748be5" alt="Flask logo">
   </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <a href="https://getbootstrap.com/" style="text-decoration: none;">
+    <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/0953daa4-45f0-4f89-9771-80a6a9cb3b8c" alt="Bootstrap logo">
   </a>
 </p>
 
 <h3>Currently learning</h3>
 <p>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <a href="https://www.typescriptlang.org/" style="text-decoration: none;">
+    <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/5f7033b7-744b-404a-b0e4-7a04d76459ee" alt="TypeScript logo">
   </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <a href="https://tailwindcss.com/" style="text-decoration: none;">
+    <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/a621dee3-9c5f-4ba1-a41b-05359897d76d" alt="Tailwind CSS logo">
   </a>
 </p>
 
@@ -55,9 +52,9 @@
 <h2>Contact me</h2>
 <p>
   <a href="https://www.linkedin.com/in/josejoaquinmartinezcarrillo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/541f87b3-615f-421c-b44f-799b862c12bd" alt="LinkedIn">
   </a>
   <a href="mailto:jj.martinez87@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/b4893729-c4ac-490f-b67a-159569f351e6" alt="Email">
   </a>
 </p>

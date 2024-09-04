@@ -1,5 +1,5 @@
 <h1>Hi there 👋I'm <span style="color:#09f;">Jose</span> 💻</h1>
-<p>Enthusiastic Full Stack Developer with a background in Biology and Cosmetic Chemistry, currently honing software development skills. Passionate about innovative products and quality control, with a keen eye for detail. Strong in HTML, CSS, JS, React, Python, and Flask. Proven ability to enhance user experience and collaborate cross-functionally. Excited to contribute to cutting-edge projects aligning with high standards and impactful solutions.</p>
+<p>Full Stack Developer with a background in Biology and Cosmetic Chemistry, currently honing software development skills. I love the way I feel while programming, I find it fun and amusing. </p>
 <img src="https://miro.medium.com/v2/resize:fit:400/0*l1GgcqQ-pRxY5o1t">
 
 <h2>Languages Frameworks & Libraries</h2>

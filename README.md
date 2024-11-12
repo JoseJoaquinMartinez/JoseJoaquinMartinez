@@ -26,8 +26,6 @@
   <a href="https://getbootstrap.com/" style="text-decoration: none; display: inline-block;">
     <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/0953daa4-45f0-4f89-9771-80a6a9cb3b8c" alt="Bootstrap logo" style="vertical-align: middle;" />
   </a>
-</p>
-<p>
   <a href="https://www.typescriptlang.org/" style="text-decoration: none; display: inline-block;">
     <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/5f7033b7-744b-404a-b0e4-7a04d76459ee" alt="TypeScript logo" style="vertical-align: middle;" />
   </a>
@@ -35,6 +33,8 @@
     <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/a621dee3-9c5f-4ba1-a41b-05359897d76d" alt="Tailwind CSS logo" style="vertical-align: middle;" />
   </a>
 </p>
+
+  
 
 <h2>About Me:</h2>
 <p>🛠 I'm open to exploring and learning new frameworks and technologies.</p>

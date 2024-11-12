@@ -27,8 +27,6 @@
     <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/0953daa4-45f0-4f89-9771-80a6a9cb3b8c" alt="Bootstrap logo" style="vertical-align: middle;" />
   </a>
 </p>
-
-<h3>Currently learning</h3>
 <p>
   <a href="https://www.typescriptlang.org/" style="text-decoration: none; display: inline-block;">
     <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/5f7033b7-744b-404a-b0e4-7a04d76459ee" alt="TypeScript logo" style="vertical-align: middle;" />

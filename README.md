@@ -32,6 +32,9 @@
   <a href="https://tailwindcss.com/" style="text-decoration: none; display: inline-block;">
     <img src="https://github.com/JoseJoaquinMartinez/JoseJoaquinMartinez/assets/61237112/a621dee3-9c5f-4ba1-a41b-05359897d76d" alt="Tailwind CSS logo" style="vertical-align: middle;" />
   </a>
+   <a href="https://nextjs.org/docs" style="text-decoration: none; display: inline-block;">
+    <img src="https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/next.js.png?raw=true" alt="Next.js logo" style="vertical-align: middle;" />
+  </a>
 </p>
 
   
